@@ -40,7 +40,7 @@
 	<zone name="(GMT-07:00) Canada: Fort Nelson" zone="America/Fort_Nelson" countryCode="CA" languageCode="en" localeCode="en_CA" />
 	<zone name="(GMT-07:00) Canada: Inuvik" zone="America/Inuvik" countryCode="CA" languageCode="en" localeCode="en_CA" />
 	<zone name="(GMT-07:00) Canada: Whitehorse" zone="America/Whitehorse" countryCode="CA" languageCode="en" localeCode="en_CA" />
-	<zone name="(GMT-07:00) Mexico: Ciudad Juarez" zone="America/Ciudad_Juarez" countryCode="MX" languageCode="es" localeCode="es_MX" />
+	<zone name="(GMT-07:00) Mexico: Baja Norte" zone="Mexico/BajaNorte" countryCode="MX" languageCode="es" localeCode="es_MX" />
 	<zone name="(GMT-07:00) Mexico: Hermosillo" zone="America/Hermosillo" countryCode="MX" languageCode="es" localeCode="es_MX" />
 	<zone name="(GMT-07:00) Mexico: Mazatlan" zone="America/Mazatlan" countryCode="MX" languageCode="es" localeCode="es_MX" />
 	<zone name="(GMT-07:00) United States: Boise" zone="America/Boise" countryCode="US" languageCode="en" localeCode="en_US" />
@@ -276,7 +276,7 @@
 	<zone name="(GMT+02:00) South Africa" zone="Africa/Johannesburg" countryCode="ZA" languageCode="en" localeCode="en_ZA" />
 	<zone name="(GMT+02:00) South Sudan" zone="Africa/Juba" countryCode="SS" languageCode="en" localeCode="en_SS" />
 	<zone name="(GMT+02:00) Sudan" zone="Africa/Khartoum" countryCode="SD" languageCode="en" localeCode="en_SD" />
-	<zone name="(GMT+02:00) Ukraine: Kyiv" zone="Europe/Kyiv" countryCode="UA" languageCode="uk" localeCode="uk_UA" />
+	<zone name="(GMT+02:00) Ukraine: Kyiv" zone="Europe/Kiev" countryCode="UA" languageCode="uk" localeCode="uk_UA" />
 	<zone name="(GMT+02:00) Zambia" zone="Africa/Lusaka" countryCode="ZM" languageCode="en" localeCode="en_ZM" />
 	<zone name="(GMT+02:00) Zimbabwe" zone="Africa/Harare" countryCode="ZW" languageCode="sn" localeCode="sn_ZW" />
 	<zone name="(GMT+03:00) Antarctica: Syowa" zone="Antarctica/Syowa" countryCode="AQ" languageCode="en" localeCode="en_AQ" />
@@ -425,7 +425,6 @@
 	<zone name="(GMT+12:00) United States Minor Outlying Islands: Wake Island" zone="Pacific/Wake" countryCode="UM" languageCode="en" localeCode="en_UM" />
 	<zone name="(GMT+12:00) Wallis and Futuna" zone="Pacific/Wallis" countryCode="WF" languageCode="fr" localeCode="fr_WF" />
 	<zone name="(GMT+12:45) New Zealand: Chatham Islands" zone="Pacific/Chatham" countryCode="NZ" languageCode="en" localeCode="en_NZ" />
-	<zone name="(GMT+13:00) Kiribati: Kanton" zone="Pacific/Kanton" countryCode="KI" languageCode="en" localeCode="en_KI" />
 	<zone name="(GMT+13:00) Samoa" zone="Pacific/Apia" countryCode="WS" languageCode="sm" localeCode="sm_WS" />
 	<zone name="(GMT+13:00) Tokelau" zone="Pacific/Fakaofo" countryCode="TK" languageCode="tkl" localeCode="tkl_TK" />
 	<zone name="(GMT+13:00) Tonga" zone="Pacific/Tongatapu" countryCode="TO" languageCode="to" localeCode="to_TO" />
