@@ -1,7 +1,7 @@
 <ImageFeeds>
 	<ImageFeed name="OpenPLi" url="http://downloads.openpli.org/json/"/>
 	<ImageFeed name="openATV" url="https://images.mynonpublic.com/openatv/json/" MODEL="ReplaceOE-A"/>
-	<ImageFeed name="OpenBH" url="https://images.openbh.net/json/"/>
+	<ImageFeed name="OpenBh" url="https://images.openbh.net/json/"/>
 	<ImageFeed name="Open Vision" url="https://images.openvision.dedyn.io/json/"/>
 	<ImageFeed name="OpenViX" url="https://www.openvix.co.uk/json/" MODEL="ReplaceOE-A"/>
 	<ImageFeed name="OpenHDF" url="https://flash.hdfreaks.cc/openhdf/json/"/>
